@@ -1,0 +1,23 @@
+
+
+body {
+    background-color: #edeff0;
+}
+
+#shoes {
+    width: 200px;
+}
+
+ul {
+    display: flex;
+}
+
+ul li {
+    list-style: none;
+    cursor: pointer;
+    margin: 10px;
+}
+
+li img {
+    width: 99px;
+}
